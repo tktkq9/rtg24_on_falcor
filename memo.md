@@ -10,7 +10,7 @@
 この参考文献の内容を使うのではなく、これらのマップの情報を使ってフォトンを飛ばす用に使う  
 ライトに対するレイトレ用GBufferみたいな感じ  
 
-このRSMミップマップをかけ2 * 2画像を用意し、この
+このRSMのライト情報に対しミップマップをかけ2 * 2画像を用意し、この情報をもとに重要度サンプリングを行う  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzY2NjIzNCwtMzU2NTg4MzI5XX0=
+eyJoaXN0b3J5IjpbMTc2NDI2NjE0MiwtMzU2NTg4MzI5XX0=
 -->
