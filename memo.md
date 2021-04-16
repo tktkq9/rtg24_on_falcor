@@ -7,8 +7,7 @@
 [穴空間 実装例](http://kagamin.net/hole/rsm/index.htm)  
 [元の論文](https://users.soe.ucsc.edu/~pang/160/s13/proposal/mijallen/proposal/media/p203-dachsbacher.pdf)  
 
-
-
+この参考文献の内容を使うのではなく、これらのマップをライトに対するレイトレ用GBufferみたいな感じで使う  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjU4ODMyOV19
+eyJoaXN0b3J5IjpbOTUyNTEyMzI5LC0zNTY1ODgzMjldfQ==
 -->
