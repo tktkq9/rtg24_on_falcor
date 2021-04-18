@@ -11,10 +11,10 @@
 ライトに対するレイトレ用GBufferみたいな感じ  
 
 また、フォトンを飛ばすにあたり各ピクセルから飛ばすのではなく重要度サンプリングする  
-内容としては、このRSMのdirectional falloffとアルベド情報に対しミップマップをかけ2 * 2画像を用意し、この情報をもとに重要度サンプリングを行う  
+内容としては、このRSMのdirectional falloffとアルベド情報に対しミップマップをかけ2 * 2画像を用意し、この情報をサンプリングポジション画像に適用し、しれぶい￥重要度サンプリングを行う  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg1MzEwNSw0MDE4NzA0ODksMTY5Mz
-I1NzQwNSwtMzU2NTg4MzI5XX0=
+eyJoaXN0b3J5IjpbLTQzNTAwNTg0LDQwMTg3MDQ4OSwxNjkzMj
+U3NDA1LC0zNTY1ODgzMjldfQ==
 -->
