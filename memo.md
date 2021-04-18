@@ -14,8 +14,9 @@
 内容としては、このRSMのdirectional falloffとアルベド情報に対しミップマップをかけ2 * 2画像を用意し、この情報をもとに重要度サンプリングを行う  
 
 ###  その他試してみたいこと
-- s_uの計算がライトへの方向を使って計算しているが、考え方としてはむしろそこでサンプリングされた際のレイの方向をもらってきた方がいいのではないかと思った  
+- s_uの計算がライトへの方向を使って計算しているが、考え方としてはむしろそこでサンプリングされた際のレイの方向をもらってきた方がいいのではないか  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDMwODYsLTEwMDg1MzEwNSw0MDE4Nz
-A0ODksMTY5MzI1NzQwNSwtMzU2NTg4MzI5XX0=
+eyJoaXN0b3J5IjpbLTE2NzYzODA3ODMsLTEwMDg1MzEwNSw0MD
+E4NzA0ODksMTY5MzI1NzQwNSwtMzU2NTg4MzI5XX0=
 -->
