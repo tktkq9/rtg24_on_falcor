@@ -2,8 +2,9 @@
 
 1. シーンからAnalitic光源を読み込みRSMを生成するパス作成  
 2. RSMに対しミップ作成をし、フォトンをサンプリングするパス作成  
-3. SVGFパスからilluminationやらなんやらいらない処理を除いたパスを作成  
-4. 
+3. フォトンを正12面体でスケールかけて描画するパス作成  
+4. SVGFパスからilluminationやらなんやらいらない処理を除いたパスを作成  
+5. フィルターかけたフォトンバッファーとGBufferを使って
 
 ## Reflective Shadow Mapsについて
 ### 参考文献  
@@ -22,7 +23,7 @@
 と思ったが実装の方ではちゃんとそうやっていた  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjI5NTg5OCwxMzEzNjM1ODAsLTE2Nz
-YzODA3ODMsLTEwMDg1MzEwNSw0MDE4NzA0ODksMTY5MzI1NzQw
-NSwtMzU2NTg4MzI5XX0=
+eyJoaXN0b3J5IjpbLTIwODczMjY1MTcsMTMxMzYzNTgwLC0xNj
+c2MzgwNzgzLC0xMDA4NTMxMDUsNDAxODcwNDg5LDE2OTMyNTc0
+MDUsLTM1NjU4ODMyOV19
 -->
